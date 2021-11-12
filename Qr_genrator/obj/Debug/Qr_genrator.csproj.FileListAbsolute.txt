@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Qr_genrator\bin\Debug\Qr_genrator.exe.config
+C:\Users\HP\source\repos\Qr_genrator\bin\Debug\Qr_genrator.exe
+C:\Users\HP\source\repos\Qr_genrator\bin\Debug\Qr_genrator.pdb
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.Form1.resources
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.Properties.Resources.resources
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.exe
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.pdb
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.Home.resources
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.Qr.resources
+C:\Users\HP\source\repos\Qr_genrator\obj\Debug\Qr_genrator.Manual.resources
